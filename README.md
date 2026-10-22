@@ -1,43 +1,43 @@
 <h1 align="center">Xin chào, mình là Vũ Bảo Châu 👋</h1>
-<h3 align="center">Mobile & Backend Developer · Hồ Chí Minh City 🇻🇳</h3>
+<h3 align="center">Flutter Developer · Hồ Chí Minh City 🇻🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Flutter+%26+Dart+enthusiast;Java+%26+Spring+Boot+Microservices;Maps%2C+GPS+%26+Navigation+apps+%F0%9F%97%BA%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=480&lines=Flutter+%26+Dart+Developer;Bloc+%2B+Clean+Code;Learning+Node.js+for+backend+%F0%9F%8C%B1" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 📱 I build **cross-platform mobile apps with Flutter** – maps, navigation, GPS telemetry, e-commerce, chat…
-- 🔭 At work I develop **Spring Boot microservices** for distribution & sales management systems (DMS, delivery, outlet, CMS)
-- 🎓 Alumni of **University of Information Technology (UIT – VNU-HCM)**
-- 🌱 Currently exploring: **system design, Node.js/TypeScript backends & AI-assisted development**
-- 💬 Ask me about: **Flutter, Dart, Java, Spring Boot, REST APIs**
+- 📱 **Flutter developer** – mobile is where I'm most confident
+- 🧱 Use **Bloc** for state management and care about **clean, maintainable code**
+- 🔥 Hands-on with **Firebase** and its ecosystem (Auth, Firestore, FCM, Crashlytics…)
+- 🗺️ Integrated **Google Maps** and shipped apps to **App Store / Google Play**, automating releases with **Fastlane**
+- 🌱 Currently teaching myself **Node.js** to build backends
+- ☕ Have written some CRUD APIs with **Java Spring Boot** in company projects
+- 🎓 Graduated from **University of Information Technology (UIT – VNU-HCM)**
 
 ### 🛠️ Tech Stack
 
-**Mobile**
+**Mobile** – my main focus
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-00A8E8?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
 
-**Backend**
+**Backend** – learning
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-**Other**
+**Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AI Tools](https://img.shields.io/badge/AI_Tools-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ### 🚀 Featured Projects
 
