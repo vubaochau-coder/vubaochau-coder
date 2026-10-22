@@ -63,12 +63,12 @@
 
 <p align="left">
   <a href="https://github.com/vubaochau-coder"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/vbchau"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vubaochau001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vubaochau-coder&color=blueviolet&style=flat-square" alt="Profile views" />
+  <img src="https://hits.sh/github.com/vubaochau-coder.svg?style=flat-square&label=Profile%20Views&color=8a2be2" alt="Profile views" />
 </p>
 
 <p align="center"><i>⭐ Thanks for visiting — have a great day! ⭐</i></p>
