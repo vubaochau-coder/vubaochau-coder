@@ -92,8 +92,6 @@
   </picture>
 </p>
 
-### 🐍 Contribution Snake
-
 <!-- Generated daily by .github/workflows/snake.yml into the "output" branch -->
 <p align="center">
   <picture>
