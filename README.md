@@ -44,22 +44,62 @@
 
 ### 🚀 Featured Projects
 
+<!-- Each card uses <picture> to switch theme with GitHub's light/dark mode -->
 <p align="center">
-  <a href="https://github.com/vubaochau-coder/sms_navigator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=tokyonight&hide_border=true" alt="sms_navigator" /></a>
-  <a href="https://github.com/vubaochau-coder/sms_navigator_server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator_server&theme=tokyonight&hide_border=true" alt="sms_navigator_server" /></a>
-  <a href="https://github.com/vubaochau-coder/book_store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=book_store&theme=tokyonight&hide_border=true" alt="book_store" /></a>
-  <a href="https://github.com/vubaochau-coder/chat_app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chat_app&theme=tokyonight&hide_border=true" alt="chat_app" /></a>
+  <a href="https://github.com/vubaochau-coder/sms_navigator">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=default&hide_border=false" alt="sms_navigator" />
+    </picture>
+  </a>
+  <a href="https://github.com/vubaochau-coder/sms_navigator_server">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator_server&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator_server&theme=default&hide_border=false" alt="sms_navigator_server" />
+    </picture>
+  </a>
+  <a href="https://github.com/vubaochau-coder/book_store">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=book_store&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=book_store&theme=default&hide_border=false" alt="book_store" />
+    </picture>
+  </a>
+  <a href="https://github.com/vubaochau-coder/chat_app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chat_app&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chat_app&theme=default&hide_border=false" alt="chat_app" />
+    </picture>
+  </a>
 </p>
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vubaochau-coder&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vubaochau-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vubaochau-coder&show_icons=true&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=vubaochau-coder&show_icons=true&theme=default&hide_border=false" alt="GitHub stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vubaochau-coder&layout=compact&theme=tokyonight&hide_border=true" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vubaochau-coder&layout=compact&theme=default&hide_border=false" alt="Top languages" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vubaochau-coder&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vubaochau-coder&theme=tokyonight&hide_border=true" />
+    <img src="https://streak-stats.demolab.com?user=vubaochau-coder&theme=default&hide_border=false" alt="GitHub streak" />
+  </picture>
+</p>
+
+### 🐍 Contribution Snake
+
+<!-- Generated daily by .github/workflows/snake.yml into the "output" branch -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vubaochau-coder/vubaochau-coder/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/vubaochau-coder/vubaochau-coder/output/github-snake.svg" alt="Snake eating my contributions" />
+  </picture>
 </p>
 
 ### 📫 Connect With Me
