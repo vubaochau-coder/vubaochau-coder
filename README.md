@@ -11,6 +11,7 @@
 
 - 📱 **Flutter developer** – mobile is where I'm most confident
 - 🧱 Use **Bloc** for state management and care about **clean, maintainable code**
+- 🌐 Work with **REST APIs** using **Dio** (interceptors, error handling, token refresh…)
 - 🔥 Hands-on with **Firebase** and its ecosystem (Auth, Firestore, FCM, Crashlytics…)
 - 🗺️ Integrated **Google Maps** and shipped apps to **App Store / Google Play**, automating releases with **Fastlane**
 - 🌱 Currently teaching myself **Node.js** to build backends
@@ -24,6 +25,8 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Bloc](https://img.shields.io/badge/Bloc-00A8E8?style=for-the-badge&logo=flutter&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=postman&logoColor=white)
+![Dio](https://img.shields.io/badge/Dio-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
