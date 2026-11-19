@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/logos/sms_navigator.png" width="56" align="left" hspace="4" alt="sms_navigator logo" />
+      <img src="assets/logos/sms_navigator.png" width="68" align="left" alt="sms_navigator logo" />
       <img src="assets/spacer.png" width="1" height="120" align="right" alt="" />
       <a href="https://github.com/vubaochau-coder/sms_navigator"><b>SMS Navigator</b></a><br />
       <sub>Flutter app that forwards SMS/OTP from the SIM phone to multiple devices with end-to-end encryption.</sub><br clear="all" /><br />
@@ -55,7 +55,7 @@
       <img src="https://img.shields.io/github/stars/vubaochau-coder/sms_navigator?style=flat&logo=github" alt="stars" />
     </td>
     <td width="50%" valign="top">
-      <img src="assets/logos/sms_navigator.png" width="56" align="left" hspace="4" alt="sms_navigator_server logo" />
+      <img src="assets/logos/sms_navigator.png" width="68" align="left" alt="sms_navigator_server logo" />
       <img src="assets/spacer.png" width="1" height="120" align="right" alt="" />
       <a href="https://github.com/vubaochau-coder/sms_navigator_server"><b>SMS Navigator Server</b></a><br />
       <sub>End-to-end encrypted SMS/OTP relay server for SMS Navigator. Holds no keys and cannot read messages.</sub><br clear="all" /><br />
@@ -65,7 +65,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/vubaochau-coder/nonogram/main/web/icons/Icon-192.png" width="56" align="left" hspace="4" alt="nonogram logo" />
+      <img src="assets/logos/nonogram.png" width="68" align="left" alt="nonogram logo" />
       <img src="assets/spacer.png" width="1" height="120" align="right" alt="" />
       <a href="https://github.com/vubaochau-coder/nonogram"><b>Pixel Nonogram</b></a><br />
       <sub>Pixel Nonogram – a Flutter picture-logic puzzle game with 1,000+ pixel-art levels, hints, daily check-in and a smooth solve animation.</sub><br clear="all" /><br />
@@ -73,7 +73,7 @@
       <img src="https://img.shields.io/github/stars/vubaochau-coder/nonogram?style=flat&logo=github" alt="stars" />
     </td>
     <td width="50%" valign="top">
-      <img src="assets/logos/game-2048.png" width="56" align="left" hspace="4" alt="game-2048 logo" />
+      <img src="assets/logos/game-2048.png" width="68" align="left" alt="game-2048 logo" />
       <img src="assets/spacer.png" width="1" height="120" align="right" alt="" />
       <a href="https://github.com/vubaochau-coder/game-2048"><b>2048</b></a><br />
       <sub>2048 sliding tile puzzle built with Flutter &amp; BLoC. Auto-play AI (expectimax), saves your game in progress and best score…</sub><br clear="all" /><br />
@@ -83,7 +83,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/logos/chess.png" width="56" align="left" hspace="4" alt="chess logo" />
+      <img src="assets/logos/chess.png" width="68" align="left" alt="chess logo" />
       <img src="assets/spacer.png" width="1" height="120" align="right" alt="" />
       <a href="https://github.com/vubaochau-coder/chess"><b>Chess</b></a><br />
       <sub>Chess game for Android built with Flutter. Play against a custom Dart AI (3 levels, runs in an Isolate) or pass-and-play…</sub><br clear="all" /><br />
