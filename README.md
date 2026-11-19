@@ -46,12 +46,6 @@
 
 <!-- Each card uses <picture> to switch theme with GitHub's light/dark mode -->
 <p align="center">
-  <a href="https://github.com/vubaochau-coder/nonogram">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=tokyonight&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=default&hide_border=false" alt="nonogram" />
-    </picture>
-  </a>
   <a href="https://github.com/vubaochau-coder/sms_navigator">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=tokyonight&hide_border=true" />
@@ -64,10 +58,22 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator_server&theme=default&hide_border=false" alt="sms_navigator_server" />
     </picture>
   </a>
-  <a href="https://github.com/vubaochau-coder/book_store">
+  <a href="https://github.com/vubaochau-coder/nonogram">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=book_store&theme=tokyonight&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=book_store&theme=default&hide_border=false" alt="book_store" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=default&hide_border=false" alt="nonogram" />
+    </picture>
+  </a>
+  <a href="https://github.com/vubaochau-coder/game-2048">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=game-2048&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=game-2048&theme=default&hide_border=false" alt="game-2048" />
+    </picture>
+  </a>
+  <a href="https://github.com/vubaochau-coder/flappy-bird">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=flappy-bird&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=flappy-bird&theme=default&hide_border=false" alt="flappy-bird" />
     </picture>
   </a>
 </p>
