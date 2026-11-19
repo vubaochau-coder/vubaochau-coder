@@ -44,39 +44,55 @@
 
 ### 🚀 Featured Projects
 
-<!-- Each card uses <picture> to switch theme with GitHub's light/dark mode -->
-<p align="center">
-  <a href="https://github.com/vubaochau-coder/sms_navigator">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=tokyonight&hide_border=true&v=3" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=default&hide_border=false" alt="sms_navigator" />
-    </picture>
-  </a>
-  <a href="https://github.com/vubaochau-coder/sms_navigator_server">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator_server&theme=tokyonight&hide_border=true&v=3" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator_server&theme=default&hide_border=false" alt="sms_navigator_server" />
-    </picture>
-  </a>
-  <a href="https://github.com/vubaochau-coder/nonogram">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=tokyonight&hide_border=true&v=3" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=default&hide_border=false" alt="nonogram" />
-    </picture>
-  </a>
-  <a href="https://github.com/vubaochau-coder/game-2048">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=game-2048&theme=tokyonight&hide_border=true&v=3" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=game-2048&theme=default&hide_border=false" alt="game-2048" />
-    </picture>
-  </a>
-  <a href="https://github.com/vubaochau-coder/chess">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chess&theme=tokyonight&hide_border=true&v=3" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chess&theme=default&hide_border=false" alt="chess" />
-    </picture>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/vubaochau-coder/sms_navigator/main/design/app_icon/icon_512.png" width="56" align="left" hspace="4" alt="sms_navigator logo" />
+      <a href="https://github.com/vubaochau-coder/sms_navigator"><b>SMS Navigator</b></a><br />
+      <sub>Forwards SMS/OTP from the SIM phone to multiple devices, end-to-end encrypted.</sub><br clear="left" /><br />
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/github/stars/vubaochau-coder/sms_navigator?style=flat&logo=github" alt="stars" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/vubaochau-coder/sms_navigator/main/design/app_icon/icon_512.png" width="56" align="left" hspace="4" alt="sms_navigator_server logo" />
+      <a href="https://github.com/vubaochau-coder/sms_navigator_server"><b>SMS Navigator Server</b></a><br />
+      <sub>E2EE SMS/OTP relay server. Holds no keys and cannot read messages.</sub><br clear="left" /><br />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+      <img src="https://img.shields.io/github/stars/vubaochau-coder/sms_navigator_server?style=flat&logo=github" alt="stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/vubaochau-coder/nonogram/main/web/icons/Icon-192.png" width="56" align="left" hspace="4" alt="nonogram logo" />
+      <a href="https://github.com/vubaochau-coder/nonogram"><b>Pixel Nonogram</b></a><br />
+      <sub>Picture-logic puzzle with 1,000+ pixel-art levels, hints and daily check-in.</sub><br clear="left" /><br />
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/github/stars/vubaochau-coder/nonogram?style=flat&logo=github" alt="stars" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/vubaochau-coder/game-2048/main/web/icons/Icon-192.png" width="56" align="left" hspace="4" alt="game-2048 logo" />
+      <a href="https://github.com/vubaochau-coder/game-2048"><b>2048</b></a><br />
+      <sub>Sliding tile puzzle with an expectimax auto-play AI and saved progress.</sub><br clear="left" /><br />
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/github/stars/vubaochau-coder/game-2048?style=flat&logo=github" alt="stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/vubaochau-coder/chess/main/web/icons/Icon-192.png" width="56" align="left" hspace="4" alt="chess logo" />
+      <a href="https://github.com/vubaochau-coder/chess"><b>Chess</b></a><br />
+      <sub>Play against a 3-level Dart AI or pass-and-play. Full rules, undo, hints, autosave.</sub><br clear="left" /><br />
+      <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
+      <img src="https://img.shields.io/github/stars/vubaochau-coder/chess?style=flat&logo=github" alt="stars" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/logos/flappy-bird.png" width="56" align="left" hspace="4" alt="flappy-bird logo" />
+      <a href="https://github.com/vubaochau-coder/flappy-bird"><b>Flappy Bird</b></a><br />
+      <sub>Flutter &amp; Flame remake with local high scores and an autopilot mode.</sub><br clear="left" /><br />
+      <img src="https://img.shields.io/badge/Flame-FF6F00?logo=flutter&logoColor=white" alt="Flame" />
+    </td>
+  </tr>
+</table>
 
 ### 📊 GitHub Stats
 
