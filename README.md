@@ -70,12 +70,6 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=game-2048&theme=default&hide_border=false" alt="game-2048" />
     </picture>
   </a>
-  <a href="https://github.com/vubaochau-coder/flappy-bird">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=flappy-bird&theme=tokyonight&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=flappy-bird&theme=default&hide_border=false" alt="flappy-bird" />
-    </picture>
-  </a>
 </p>
 
 ### 📊 GitHub Stats
