@@ -46,6 +46,12 @@
 
 <!-- Each card uses <picture> to switch theme with GitHub's light/dark mode -->
 <p align="center">
+  <a href="https://github.com/vubaochau-coder/nonogram">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=default&hide_border=false" alt="nonogram" />
+    </picture>
+  </a>
   <a href="https://github.com/vubaochau-coder/sms_navigator">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=tokyonight&hide_border=true" />
@@ -62,12 +68,6 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=book_store&theme=tokyonight&hide_border=true" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=book_store&theme=default&hide_border=false" alt="book_store" />
-    </picture>
-  </a>
-  <a href="https://github.com/vubaochau-coder/nonogram">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=tokyonight&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=default&hide_border=false" alt="nonogram" />
     </picture>
   </a>
 </p>
