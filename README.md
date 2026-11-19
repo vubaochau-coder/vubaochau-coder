@@ -64,10 +64,10 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=book_store&theme=default&hide_border=false" alt="book_store" />
     </picture>
   </a>
-  <a href="https://github.com/vubaochau-coder/chat_app">
+  <a href="https://github.com/vubaochau-coder/nonogram">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chat_app&theme=tokyonight&hide_border=true" />
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chat_app&theme=default&hide_border=false" alt="chat_app" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=tokyonight&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=default&hide_border=false" alt="nonogram" />
     </picture>
   </a>
 </p>
