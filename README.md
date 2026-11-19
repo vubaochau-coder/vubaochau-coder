@@ -47,14 +47,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/vubaochau-coder/sms_navigator/main/design/app_icon/icon_512.png" width="56" align="left" hspace="4" alt="sms_navigator logo" />
+      <img src="assets/logos/sms_navigator.png" width="56" align="left" hspace="4" alt="sms_navigator logo" />
       <a href="https://github.com/vubaochau-coder/sms_navigator"><b>SMS Navigator</b></a><br />
       <sub>Forwards SMS/OTP from the SIM phone to multiple devices, end-to-end encrypted.</sub><br clear="left" /><br />
       <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
       <img src="https://img.shields.io/github/stars/vubaochau-coder/sms_navigator?style=flat&logo=github" alt="stars" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/vubaochau-coder/sms_navigator/main/design/app_icon/icon_512.png" width="56" align="left" hspace="4" alt="sms_navigator_server logo" />
+      <img src="assets/logos/sms_navigator.png" width="56" align="left" hspace="4" alt="sms_navigator_server logo" />
       <a href="https://github.com/vubaochau-coder/sms_navigator_server"><b>SMS Navigator Server</b></a><br />
       <sub>E2EE SMS/OTP relay server. Holds no keys and cannot read messages.</sub><br clear="left" /><br />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
@@ -70,7 +70,7 @@
       <img src="https://img.shields.io/github/stars/vubaochau-coder/nonogram?style=flat&logo=github" alt="stars" />
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/vubaochau-coder/game-2048/main/web/icons/Icon-192.png" width="56" align="left" hspace="4" alt="game-2048 logo" />
+      <img src="assets/logos/game-2048.png" width="56" align="left" hspace="4" alt="game-2048 logo" />
       <a href="https://github.com/vubaochau-coder/game-2048"><b>2048</b></a><br />
       <sub>Sliding tile puzzle with an expectimax auto-play AI and saved progress.</sub><br clear="left" /><br />
       <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
@@ -79,7 +79,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/vubaochau-coder/chess/main/assets/branding/icon.png" width="56" align="left" hspace="4" alt="chess logo" />
+      <img src="assets/logos/chess.png" width="56" align="left" hspace="4" alt="chess logo" />
       <a href="https://github.com/vubaochau-coder/chess"><b>Chess</b></a><br />
       <sub>Play against a 3-level Dart AI or pass-and-play. Full rules, undo, hints, autosave.</sub><br clear="left" /><br />
       <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" alt="Flutter" />
