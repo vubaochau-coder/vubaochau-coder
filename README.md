@@ -48,31 +48,31 @@
 <p align="center">
   <a href="https://github.com/vubaochau-coder/sms_navigator">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=tokyonight&hide_border=true&v=2" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=tokyonight&hide_border=true&v=3" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator&theme=default&hide_border=false" alt="sms_navigator" />
     </picture>
   </a>
   <a href="https://github.com/vubaochau-coder/sms_navigator_server">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator_server&theme=tokyonight&hide_border=true&v=2" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator_server&theme=tokyonight&hide_border=true&v=3" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=sms_navigator_server&theme=default&hide_border=false" alt="sms_navigator_server" />
     </picture>
   </a>
   <a href="https://github.com/vubaochau-coder/nonogram">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=tokyonight&hide_border=true&v=2" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=tokyonight&hide_border=true&v=3" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=nonogram&theme=default&hide_border=false" alt="nonogram" />
     </picture>
   </a>
   <a href="https://github.com/vubaochau-coder/game-2048">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=game-2048&theme=tokyonight&hide_border=true&v=2" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=game-2048&theme=tokyonight&hide_border=true&v=3" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=game-2048&theme=default&hide_border=false" alt="game-2048" />
     </picture>
   </a>
   <a href="https://github.com/vubaochau-coder/chess">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chess&theme=tokyonight&hide_border=true&v=2" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chess&theme=tokyonight&hide_border=true&v=3" />
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=vubaochau-coder&repo=chess&theme=default&hide_border=false" alt="chess" />
     </picture>
   </a>
